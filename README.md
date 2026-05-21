@@ -1,5 +1,5 @@
 #header {
-  background-image: url("Messenger_creation_B436E306_987F_4EA0_ABE4_783364FC276F_ezgif.com_optimize.gif");
+  background-image: url("https://github.com/sakuradayen047-cyber/Damselette-ng-Mama-mo/blob/f77361a5d185e1a1af3d835a27199d23cbe630d8/Messenger_creation_B436E306_987F_4EA0_ABE4_783364FC276F_ezgif.com_optimize.gif");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -528,7 +528,7 @@ p.kudos::before {
   transform: translateY(-50%);
   width: 80px;
   height: 80px;
-  background: url("Messenger_creation_61E25F2E-8EC8-4647-85CB-609913DF518D.jpeg") no-repeat center center;
+  background: url("https://github.com/sakuradayen047-cyber/Damselette-ng-Mama-mo/blob/f77361a5d185e1a1af3d835a27199d23cbe630d8/Messenger_creation_61E25F2E-8EC8-4647-85CB-609913DF518D.jpeg") no-repeat center center;
   background-size: contain;
 }
 
@@ -552,7 +552,7 @@ ul.notes,
 }
 
 fieldset {
-  background-image: url("Messenger_creation_7B64B631-31F9-496B-8806-699A15EE3EF2.jpeg") !important;
+  background-image: url("https://github.com/sakuradayen047-cyber/Damselette-ng-Mama-mo/blob/f77361a5d185e1a1af3d835a27199d23cbe630d8/Messenger_creation_7B64B631-31F9-496B-8806-699A15EE3EF2.jpeg") !important;
   background-repeat: repeat !important;
   background-position: top left !important;
   background-size: 380px !important;
@@ -567,7 +567,7 @@ fieldset {
 .dynamic form {
   padding: .5em !important;
   border: 1px solid #ffffff !important;
-  background-image: url("Messenger_creation_7B64B631-31F9-496B-8806-699A15EE3EF2.jpeg") !important;
+  background-image: url("https://github.com/sakuradayen047-cyber/Damselette-ng-Mama-mo/blob/f77361a5d185e1a1af3d835a27199d23cbe630d8/Messenger_creation_7B64B631-31F9-496B-8806-699A15EE3EF2.jpeg") !important;
   background-repeat: repeat !important;
   background-position: top left !important;
   background-size: 380px !important;
