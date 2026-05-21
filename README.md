@@ -528,7 +528,7 @@ p.kudos::before {
   transform: translateY(-50%);
   width: 80px;
   height: 80px;
-  background: url("https://i.imgur.com/brVPcxo.png") no-repeat center center;
+  background: url("Messenger_creation_61E25F2E-8EC8-4647-85CB-609913DF518D.jpeg") no-repeat center center;
   background-size: contain;
 }
 
@@ -552,7 +552,7 @@ ul.notes,
 }
 
 fieldset {
-  background-image: url("https://w0.peakpx.com/wallpaper/333/905/HD-wallpaper-the-magic-of-the-sea-blue-jellyfish-superb.jpg") !important;
+  background-image: url("Messenger_creation_7B64B631-31F9-496B-8806-699A15EE3EF2.jpeg") !important;
   background-repeat: repeat !important;
   background-position: top left !important;
   background-size: 380px !important;
@@ -567,7 +567,7 @@ fieldset {
 .dynamic form {
   padding: .5em !important;
   border: 1px solid #ffffff !important;
-  background-image: url("https://w0.peakpx.com/wallpaper/333/905/HD-wallpaper-the-magic-of-the-sea-blue-jellyfish-superb.jpg") !important;
+  background-image: url("Messenger_creation_7B64B631-31F9-496B-8806-699A15EE3EF2.jpeg") !important;
   background-repeat: repeat !important;
   background-position: top left !important;
   background-size: 380px !important;
